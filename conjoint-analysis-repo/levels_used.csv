@@ -1,7 +1,0 @@
-Parameter Name,Parameter Type,Level Number,Levels Used
-Monthly_membership_fee_$,continuous,4,50 | 80 | 130 | 200
-Time_to_next_available_appointment_days,discrete,3,3 | 7 | 14
-Out-of-pocket_cost_per_visit_$,continuous,3,25 | 75 | 150
-Care_coordination_&_follow-up,categorical,3,No portal follow-up | Portal for results and refills | Care team follows up within 48 hours and coordinates referrals
-Visit_access_options,categorical,3,Weekday daytime only | Evening appointments available | Evening + weekend + telehealth available
-Care_Provider_Facility,categorical,2,Hospital | Local clinic

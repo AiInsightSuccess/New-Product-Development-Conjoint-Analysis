@@ -1,7 +1,0 @@
-feature,reference_level,degrees_of_freedom,wald_chi_square,p_value,significant
-Time_to_next_available_appointment_days,3,2,8.067217092863821,0.01771030604482397,True
-Monthly_membership_fee_$,50,3,5.875924470480693,0.11780530642561178,False
-Out-of-pocket_cost_per_visit_$,25,2,3.7261666559251347,0.15519337981677275,False
-Care_coordination_&_follow-up,No portal follow-up,2,3.443547640934686,0.1787487982571857,False
-Visit_access_options,Weekday daytime only,2,1.9470337932640467,0.3777521838535794,False
-Care_Provider_Facility,Hospital,1,0.17201322558261034,0.6783287534431226,False
