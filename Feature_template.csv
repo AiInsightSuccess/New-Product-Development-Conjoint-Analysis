@@ -1,0 +1,5 @@
+﻿Monthly_membership_fee_$,Time_to_next_available_appointment_days,Out-of-pocket_cost_per_visit_$,Care_coordination_&_follow-up,Visit_access_options,Care_Provider_Facility
+200,3,25,No portal follow-up,Weekday daytime only,Hospital
+130,7,75,Portal for results and refills,Evening appointments available,Local clinic
+80,14,150,Care team follows up within 48 hours and coordinates referrals,Evening + weekend + telehealth available,
+50,,,,,

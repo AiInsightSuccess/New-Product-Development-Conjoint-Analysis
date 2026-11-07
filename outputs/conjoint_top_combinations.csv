@@ -1,0 +1,11 @@
+Monthly_membership_fee_$,Time_to_next_available_appointment_days,Out-of-pocket_cost_per_visit_$,Care_coordination_&_follow-up,Visit_access_options,Care_Provider_Facility,predicted_probability,predicted_odds
+200,3,75,Portal for results and refills,Evening + weekend + telehealth available,Hospital,0.2706503278498182,0.3710844580925349
+200,3,75,Care team follows up within 48 hours and coordinates referrals,Evening + weekend + telehealth available,Hospital,0.270316448411381,0.37045709448001923
+200,3,75,Portal for results and refills,Evening appointments available,Hospital,0.2673265570640845,0.3648645377303059
+200,3,75,Care team follows up within 48 hours and coordinates referrals,Evening appointments available,Hospital,0.266995276895571,0.3642476896530624
+200,3,75,Portal for results and refills,Evening + weekend + telehealth available,Local clinic,0.2655875607977222,0.3616327102060045
+200,3,75,Care team follows up within 48 hours and coordinates referrals,Evening + weekend + telehealth available,Local clinic,0.26525765544626023,0.3610213259280295
+200,3,75,Portal for results and refills,Evening appointments available,Local clinic,0.26230360388090246,0.3555712150158787
+200,3,75,Care team follows up within 48 hours and coordinates referrals,Evening appointments available,Local clinic,0.2619763226401136,0.3549700784360672
+200,3,75,Portal for results and refills,Weekday daytime only,Hospital,0.2507823721572723,0.33472566960199096
+200,3,75,Care team follows up within 48 hours and coordinates referrals,Weekday daytime only,Hospital,0.25046458545236744,0.33415977496344246
