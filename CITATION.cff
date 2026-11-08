@@ -1,1 +1,18 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "New Product Development: Choice-Based Conjoint Analysis Workbook"
+abstract: "Beginner-friendly Python notebook and sample data for designing a choice-based conjoint experiment with a D-optimal fractional factorial design and analysing survey responses with logistic regression."
+authors:
+  - name: "AI Insights for Success"
+    website: "https://www.aiinsightsuccess.com"
+license: MIT
+repository-code: "https://github.com/AiInsightSuccess/New-Product-Development-Conjoint-Analysis"
+url: "https://www.aiinsightsuccess.com/blank-2"
+keywords:
+  - conjoint analysis
+  - choice-based conjoint
+  - fractional factorial design
+  - logistic regression
+  - new product development
+  - python
