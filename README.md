@@ -1,4 +1,5 @@
 # Choice-Based Conjoint Analysis Workbook
+[![DOI](https://zenodo.org/badge/1449815919.svg)](https://doi.org/10.5281/zenodo.24060441)
 
 Free Python code and sample data from
 [AI Insights for Success](https://www.aiinsightsuccess.com/blank-2) for designing
