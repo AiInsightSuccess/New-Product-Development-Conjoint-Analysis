@@ -4,7 +4,7 @@
 Free Python code and sample data from
 [AI Insights for Success](https://www.aiinsightsuccess.com/blank-2) for designing
 a choice-based conjoint experiment (D-optimal fractional factorial design) and
-analysing the survey responses with logistic regression.
+analyzing the survey responses with logistic regression.
 
 It includes sample data, a beginner-friendly Jupyter notebook, and example
 outputs.
